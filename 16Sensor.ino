@@ -20,13 +20,15 @@
 #define topic6  "home/quang195/sensors6"
 #define topic7  "home/quang195/sensors7"
 #define topic8  "home/quang195/sensors8"
-#define topic9  "home/quang195/sensors9"
+#define topic9  "home/quang195/sensors9"git 
 #define topic10  "home/quang195/sensors10"
 #define topic11  "home/quang195/sensors11"
 #define topic12  "home/quang195/sensors12"
 #define topic13  "home/quang195/sensors13"
 #define topic14  "home/quang195/sensors14"
 #define topic15  "home/quang195/sensors15"
+
+
 
 void Display(unsigned char mode_t);
 void pcf_read();
